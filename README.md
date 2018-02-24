@@ -22,5 +22,5 @@ I am thinking about eating these foods:
 
 ### Contact
 
-The best way to get in touch with me is [on Hangouts] (https:www.hangouts.google.com) .
+The best way to get in touch with me is [on Hangouts] (https://www.hangouts.google.com) .
 
